@@ -1,0 +1,22 @@
+{
+  "name": "ejcm-pablo",
+  "description": "",
+  "main": "",
+  "authors": [
+    "Pablo da Rocha <pablodarocha.ribeiro@gmail.com>"
+  ],
+  "license": "MIT",
+  "moduleType": [],
+  "homepage": "",
+  "ignore": [
+    "**/.*",
+    "node_modules",
+    "bower_components",
+    "public/libs_bower",
+    "test",
+    "tests"
+  ],
+  "dependencies": {
+    "semantic": "semantic-ui#~2.1.8"
+  }
+}
